@@ -7,9 +7,7 @@ int main(){
 	int tc,N;
 	cin>>N;
 	while(N!=0){
-		ULL sum=0,i ,t;
-		
-		t=N;
+		ULL sum=0,i ;
 		i=N;
 		sum=0;
 		while(i>=10){
